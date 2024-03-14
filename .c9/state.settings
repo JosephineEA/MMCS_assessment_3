@@ -1,0 +1,237 @@
+{
+    "console": {
+        "@expanded": true,
+        "@height": "300",
+        "@maximized": "false",
+        "json()": {
+            "meta": {
+                "accessList": [
+                    "tab2"
+                ]
+            },
+            "name": "pane1",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab2",
+                    "path": "",
+                    "className": [
+                        "tab2"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1667821522917
+                        },
+                        "filter": true,
+                        "title": "Farm_Co.mos - Idle",
+                        "tooltip": "Farm_Co.mos - Idle",
+                        "output": {
+                            "id": "output324910",
+                            "width": 1208,
+                            "height": 268,
+                            "config": {
+                                "runner": "Mosel",
+                                "command": "Farm_Co.mos",
+                                "debug": false,
+                                "toolbar": true
+                            }
+                        }
+                    },
+                    "editorType": "output",
+                    "active": true
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "ext": {
+        "counters": {
+            "@ace": 1,
+            "@acestatus": 1,
+            "@base-step-wizard": 2,
+            "@divider": 4,
+            "@document": 4,
+            "@editorswitch": 1,
+            "@fico.vdl.attributes-panel": 1,
+            "@fico.vdl.palette-panel": 1,
+            "@form": 4,
+            "@menu": 3,
+            "@menuitem": 8,
+            "@pane": 2,
+            "@session": 3,
+            "@tab": 4,
+            "@undoManager": 4,
+            "@welcome": 1
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@scope": "selection",
+        "@wholeword": "false"
+    },
+    "local": {
+        "window": {
+            "@fullscreen": true
+        }
+    },
+    "menus": {
+        "@minimized": "false"
+    },
+    "nak": {
+        "@installed": true
+    },
+    "od": {
+        "@last-run-config": "path:Farm_Co.mos"
+    },
+    "panecycle": {
+        "json()": [
+            "tab3",
+            "tab2"
+        ]
+    },
+    "panels": {
+        "@active-left": "tree",
+        "@active-right": "none",
+        "commands.panel": {
+            "@enabled": "false",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "true",
+            "@name": "debugger"
+        },
+        "fico.ide.language.mosel.modules-panel": {
+            "@enabled": "true",
+            "@name": "fico.ide.language.mosel.modules-panel"
+        },
+        "fico.om.sidebar": {
+            "@enabled": "true",
+            "@name": "fico.om.sidebar"
+        },
+        "fico.vdl.attributes-panel0": {
+            "@enabled": "false",
+            "@name": "fico.vdl.attributes-panel0"
+        },
+        "fico.vdl.palette-panel0": {
+            "@enabled": "false",
+            "@name": "fico.vdl.palette-panel0"
+        },
+        "mosel.profiler": {
+            "@enabled": "true",
+            "@name": "mosel.profiler"
+        },
+        "navigate": {
+            "@enabled": "false",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "true",
+            "@name": "outline"
+        },
+        "tree": {
+            "@enabled": "true",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "expanded": {
+            "json()": [
+                "/"
+            ]
+        }
+    },
+    "tabs": {
+        "json()": {
+            "focus": "/Farm_Co.mos",
+            "meta": {
+                "accessList": [
+                    "tab1",
+                    "tab3",
+                    "tab0"
+                ]
+            },
+            "name": "pane0",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab0",
+                    "path": "",
+                    "className": [
+                        "tab0"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "Welcome",
+                        "welcome": {},
+                        "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+                        "meta": {
+                            "welcome": true,
+                            "newOnError": true,
+                            "timestamp": 1667821517697
+                        },
+                        "changed": false
+                    },
+                    "editorType": "welcome",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab1",
+                    "path": "/Farm_Co.mos",
+                    "className": [
+                        "tab1",
+                        "focus"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1667819111476
+                        },
+                        "filter": true,
+                        "title": "Farm_Co.mos",
+                        "tooltip": "/Farm_Co.mos",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": true
+                },
+                {
+                    "type": "tab",
+                    "name": "tab3",
+                    "path": "/Farm_Co.dat",
+                    "className": [
+                        "tab3"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1667820416447
+                        },
+                        "filter": true,
+                        "title": "Farm_Co.dat",
+                        "tooltip": "/Farm_Co.dat",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/Farm_Co.dat"
+        ]
+    },
+    "welcome": {
+        "@first": true
+    }
+}

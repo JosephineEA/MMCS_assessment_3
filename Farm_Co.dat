@@ -1,0 +1,6 @@
+crops_name: ["grain" "beans" "wheat"]
+lands_size: [100 250 500 125 800 75 900 360 465 90]
+crops_yield: [3 2 3.5]
+crops_sewing_costs: [15 10 12]
+crops_pirce: [4.5 6 5]
+cows_sell_price: [1700 1400 1250 1100 950 700 600 550 450 350]
